@@ -21,3 +21,10 @@ To enable self-service management capabilities for Amazon WorkSpaces, follow the
 * **Rebuild WorkSpace:** Users can rebuild their WorkSpace.
 
 **NOTE:** Review the [Workspaces Documentation](https://docs.aws.amazon.com/workspaces/) for additional details as some of these options do effect costs.
+
+## Additional Resources
+* [Best Practices for Deploying Amazon WorkSpaces Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/best-practices-deploying-amazon-workspaces/best-practices-deploying-amazon-workspaces.html)
+
+* Implementing Amazon WorkSpaces for High-Security Environments – [AWS Virtual Workshop Youtube Video](https://www.youtube.com/watch?v=HdCcXiZXV1s).
+  
+* [Slide deck download and video](https://pages.awscloud.com/Implementing-Amazon-WorkSpaces-for-High-Security-Environments_2022_VW_s52e01-SID_OD). Same video as mentioned above, Requires registration.
